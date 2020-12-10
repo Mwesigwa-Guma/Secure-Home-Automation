@@ -1,0 +1,51 @@
+
+
+1. Link for using bellows correctly 
+	https://github.com/home-assistant/core/issues/32726
+2. changing the baud rate of /dev/ttyAMA0
+	https://www.raspberrypi.org/documentation/configuration/uart.md
+3. My helper
+	https://github.com/daniel17903/ZigCoHTTP
+4. bellows
+	https://github.com/zigpy/bellows
+5. MySQL documentation
+	https://dev.mysql.com/doc/refman/8.0/en/
+6. Real-time update in mysql 
+	https://hevodata.com/learn/mysql-cdc/
+********* Python references *************
+	1. creating a dictionary
+		https://realpython.com/python-dicts/
+	2. creating a thread in python 
+		https://realpython.com/intro-to-python-threading/
+	
+********* Reference for db_connector.py **************
+	1. MySql documentation
+		https://dev.mysql.com/doc/refman/8.0/en/
+	2. MySql commands 
+		http://g2pc1.bu.edu/~qzpeng/manual/MySQL%20Commands.htm
+	3. MySql python connector
+		https://dev.mysql.com/doc/connector-python/en/connector-python-example-connecting.html
+	4. Connect to the mysql instance in aws 
+		https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ConnectToInstance.html
+	5. W3Schools python documentation
+		https://www.w3schools.com/python/python_mysql_getstarted.asp
+
+*************** References of zipy/bellows ***********
+	1. zgypy
+		https://github.com/zigpy/zigpy
+	2. Bellows
+		https://github.com/zigpy/bellows
+************* Reference for David code ***********
+	1. https://github.com/daniel17903/ZigCoHTTP
+
+************* Reference for Zigbee microcontroller & Home Assistant  *************
+	1. https://www.tindie.com/products/elelabs/elelabs-zigbee-raspberry-pi-shield/
+	2. https://www.home-assistant.io/integrations/zha/
+	3. https://en.wikipedia.org/wiki/Home_Assistant
+
+************* Communication between Me and Zigpy/bellows developers *************
+	1. https://github.com/home-assistant/core/issues/32726
+	2. https://github.com/zigpy/bellows/issues/361
+	3. https://github.com/zigpy/bellows/issues/364
+
+
